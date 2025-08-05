@@ -12,12 +12,12 @@ Este projeto tem como objetivo demonstrar a aplicação de **Test-Driven Develop
 
 ## Estrutura do projeto
 
-- `MeuProjeto/` — Projeto principal com a lógica da aplicação
-- `MeuProjeto.Tests/` — Projeto de testes com testes unitários escritos em xUnit
+- `tdd-.net-core/` — Projeto principal com a lógica da aplicação
+- `tdd-.net-core.tdd.cs/` — Projeto de testes com testes unitários escritos em xUnit
 
 ## Como rodar o projeto
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/meuprojeto.git
-   cd meuprojeto
+   git clone https://github.com/caio-kenai/tdd-.net-core.git
+   cd tdd-.net-core
