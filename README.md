@@ -20,4 +20,5 @@ Este projeto tem como objetivo demonstrar a aplicação de **Test-Driven Develop
 1. Clone este repositório:
    ```bash
    git clone https://github.com/caio-kenai/tdd-.net-core.git
-   cd tdd-.net-core
+mv tdd-.net-core tdd-net-core
+cd tdd-net-core
